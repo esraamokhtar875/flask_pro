@@ -1,0 +1,13 @@
+ body {
+    font-family: Arial, sans-serif;
+ }
+h1 {
+    color: navy;
+}
+ul {
+    list-style-type: none;
+}
+img {
+    width: 100px;
+    height: auto;
+}
